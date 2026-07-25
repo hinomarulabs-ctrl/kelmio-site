@@ -1,0 +1,3 @@
+:HL["/kelmio-site/_next/static/chunks/16jpcsoq6kx~x.css","style"]
+:HL["/kelmio-site/store-badges/app-store-ja.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"DGRxqXuDm-icBDH60iRQu"}
